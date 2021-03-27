@@ -22,10 +22,9 @@
             </v-btn>
         </v-card-text>
 
-      <v-card-text class="white--text pt-0">
-        <br>  Ce site est concu avec l'intention de proposer un service de location de voitures électriques. Dans nos différents centres, vous trouverez un lot de voitures flambant neuves et disponibles que vous pourrez louer avec des tarifs raisonnables. Avec un total de quatres centres couvrant chacun une région différente, vous pourrez explorer le Quebec comme il vous plaira. Au plaisir de vous servir !
+      <v-card-text class="white--text pt-0" >
+        Un petit site non interactif concu comme un site d'actualité. Ce prototype se compose de trois pages, chacune proposant des nouveautés d'un sujet spécifique. On ne met pas à jour spécialement les informations vu qu'on fait pas usage de la base de données. <br> Nos icones font référence aux résaux sociaux de 'L'actulité'.
       </v-card-text>
-
       <v-divider></v-divider>
 
       <v-card-text class="white--text">
