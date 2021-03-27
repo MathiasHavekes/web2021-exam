@@ -4,8 +4,8 @@
     max-width="800px"
   >
     <v-img
-      src="../assets/images/L'actualité.jpg"
       height="200px"
+      :src="require(`@/assets/images/ImagesNews/${pic_name}`)"
     ></v-img>
 
     <v-card-title>
@@ -39,12 +39,12 @@
 
 <script>
   export default {
-    props: [
-      'titre',
-      'auteur',
-      'contenu',
-      'src'
-      ],
+    props: {
+      'titre' :String,
+      'auteur':String,
+      'contenu':String,
+      'pic_name':String
+    },
     data: () => ({
       show: false,
     }),

@@ -8,27 +8,27 @@
         titre="Titre 1"
         auteur="Auteur 1" 
         contenu="Contenu 1"
-        src="../assets/images/L'actualité.jpg"/>
+        pic_name="Actualité.jpg"/>
       <NewsCard class="NewsCard"
         titre="Titre 2"
         auteur="Auteur 2" 
         contenu="Contenu 2"
-        src="../assets/images/L'actualité.jpg"/>
+        pic_name="Actualité.jpg"/>
       <NewsCard class="NewsCard"
         titre="Titre 3"
         auteur="Auteur 3" 
         contenu="Contenu 3"
-        src="../assets/images/L'actualité.jpg"/>
+        pic_name="Actualité.jpg"/>
       <NewsCard class="NewsCard"
         titre="Titre 4"
         auteur="Auteur 4" 
         contenu="Contenu 4"
-        src="../assets/images/L'actualité.jpg"/> 
+        pic_name="Actualité.jpg"/> 
       <NewsCard class="NewsCard"
         titre="Titre 5"
         auteur="Auteur 5" 
         contenu="Contenu 5"
-        src="../assets/images/L'actualité.jpg"/>
+        pic_name="Actualité.jpg"/>
     </div>
   </div>
 </template>
