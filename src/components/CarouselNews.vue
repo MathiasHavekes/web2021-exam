@@ -9,7 +9,7 @@
       transition="fade-transition"
     >
   
-    <v-list color="#E6212121" >
+    <v-list color="#00000040">
         <v-list-item>
         <v-list-item-content  two-line>
           <v-list-item-title class='black--text'> {{item.titre}} </v-list-item-title>
@@ -21,7 +21,7 @@
             v-model="cycle"
             label="Cycler"
             inset="true"
-            color="black"
+            dark
           ></v-switch>
         </v-list-item-action>
 

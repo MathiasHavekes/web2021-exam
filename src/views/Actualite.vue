@@ -30,7 +30,7 @@
 
 <script>
 import NewsCard from '../components/NewsCard'
-import Newscarousel from '../components/CarouselV2'
+import Newscarousel from '../components/CarouselNews'
 export default {
   name: '',
   components: {   

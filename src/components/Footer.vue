@@ -25,6 +25,7 @@
       <v-card-text class="white--text pt-0" >
         Un petit site non interactif concu comme un site d'actualité. Ce prototype se compose de trois pages, chacune proposant des nouveautés d'un sujet spécifique. On ne met pas à jour spécialement les informations vu qu'on fait pas usage de la base de données. <br> Nos icones font référence aux résaux sociaux de 'L'actulité'.
       </v-card-text>
+      
       <v-divider></v-divider>
 
       <v-card-text class="white--text">
