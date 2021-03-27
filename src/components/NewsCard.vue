@@ -4,7 +4,7 @@
     max-width="800px"
   >
     <v-img
-      src="../assets/images/noimage.jpg"
+      src="../assets/images/L'actualité.jpg"
       height="200px"
     ></v-img>
 
@@ -43,6 +43,7 @@
       'titre',
       'auteur',
       'contenu',
+      'src'
       ],
     data: () => ({
       show: false,
