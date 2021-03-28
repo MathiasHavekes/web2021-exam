@@ -8,11 +8,11 @@
       reverse-transition="slide-x-transition"
       transition="slide-x-transition">
   
-      <v-list color="#00000040">
+      <v-list color="#00000080" class="Hover">
           <v-list-item>
-          <v-list-item-content  two-line>
-            <v-list-item-title class='black--text'> {{item.titre}} </v-list-item-title>
-            <v-list-item-subtitle class='black--text'>{{item.contenu}}</v-list-item-subtitle>
+          <v-list-item-content two-line>
+            <v-list-item-title class='Titre'> {{item.titre}} </v-list-item-title>
+            <v-list-item-subtitle class='Contenu' >{{item.contenu}}</v-list-item-subtitle>
           </v-list-item-content>
 
           <v-list-item-action>
@@ -40,3 +40,17 @@
     },
   }
 </script>
+
+<style scoped>
+.Titre {
+  font-size: 25px;
+  color: white;
+}
+.Contenu{
+  font-size: 20px;
+  color: white;
+}
+.Hover{
+  margin-top: 355px;
+}
+</style>

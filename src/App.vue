@@ -17,7 +17,6 @@ export default {
     NavBar: NavBar,
     Footer: Footer
   },
-
   data: () => ({
   }),
 };

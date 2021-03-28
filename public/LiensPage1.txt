@@ -1,0 +1,13 @@
+Carousel :
+image 1 : https://www.ledevoir.com/politique/quebec/597687/d-abord-la-relance-ensuite-l-equilibre-budgetaire
+image 2 : https://www.ledevoir.com/politique/quebec/597620/budget-du-quebec-2021-2022-violence-conjugale-22-millions-qui-passent-mal
+image 3 : https://www.ledevoir.com/politique/canada/597608/une-lourde-tache-attend-le-federal-pour-retrouver-les-fraudeurs-de-prestations
+image 4 : https://www.ledevoir.com/politique/canada/597599/le-federal-ignore-si-les-deux-tiers-des-voyageurs-ont-respecte-leur-quarantaine
+
+News : 
+image 1 : https://www.lapresse.ca/international/amerique-latine/2021-03-28/caravanes-vers-les-etats-unis/le-mexique-et-le-guatemala-cooperent-pour-freiner-les-migrants.php
+image 2 : https://www.lapresse.ca/affaires/marches/2021-03-28/wall-street/le-fonds-archegos-a-l-origine-de-la-vente-massive-d-actions.php
+image 3 : https://www.lapresse.ca/actualites/regional/2021-03-28/riviere-l-assomption-sous-surveillance/inondation-a-saint-felix-de-valois.php
+image 4 : https://www.lapresse.ca/affaires/finances-personnelles/2021-03-28/train-de-vie/exces-de-politesse-budgetaire.php
+image 5 : https://www.lapresse.ca/actualites/politique/2021-03-26/une-elue-conservatrice-fustige-le-jugement-sur-la-tarification-du-carbone.php
+

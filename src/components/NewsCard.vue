@@ -4,7 +4,7 @@
     max-width="800px"
   >
     <v-img
-      height="200px"
+      height="400px"
       :src="require(`@/assets/images/ImagesNews/${pic_name}`)"
     ></v-img>
 
