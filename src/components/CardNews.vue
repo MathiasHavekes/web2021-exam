@@ -8,11 +8,11 @@
       :src="require(`@/assets/images/ImagesNews/${pic_name}`)"
     ></v-img>
 
-    <v-card-title>
+    <v-card-title class="Titre">
       {{titre}}
     </v-card-title>
 
-    <v-card-subtitle>
+    <v-card-subtitle class="DatePub">
       {{auteur}}
     </v-card-subtitle>
 
@@ -29,7 +29,7 @@
       <div v-show="show">
         <v-divider></v-divider>
 
-        <v-card-text>
+        <v-card-text class="Contenu">
           {{contenu}}
         </v-card-text>
       </div>
@@ -50,3 +50,15 @@
     }),
   }
 </script>
+
+<style scoped>
+.Titre{
+  font-size: 24px;
+}
+.DatePub{
+  font-size : 18px;
+}
+.Contenu{
+  font-size: 18px;
+}
+</style>

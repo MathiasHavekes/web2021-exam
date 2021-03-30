@@ -1,6 +1,7 @@
 <template>
   <v-card>
     <v-app-bar
+      tile
       dark
       fade-img-on-scroll
       scroll-target="#scrolling-techniques-5"
