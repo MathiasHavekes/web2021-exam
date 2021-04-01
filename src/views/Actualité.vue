@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div >
+    <div>
       <Newscarousel v-bind:items="itemsCarousel"/>
     </div>
     <div v-for="(item,i) in itemsCards" 
@@ -26,7 +26,7 @@ export default {
   data () {
     return {
       itemsCarousel: [            
-       {src: require('../assets/images/ImagesCarousel/Actualité/News1.jpeg'), titre: "D’abord la relance, ensuite l’équilibre budgétaire", contenu: "Selon le ministre des finances, le troisième budget du gouvernement caquiste vise à corriger les «vulnérabilités» dans les réseaux de la santé et de l'éducation mises en lumière par la pandémie."},
+       {src: require('../assets/images/ImagesCarousel/Actualité/News1.jpeg'), titre:"D’abord la relance, ensuite l’équilibre budgétaire", contenu: "Selon le ministre des finances, le troisième budget du gouvernement vise à corriger les vulnérabilités dans les réseaux de la santé et de l'éducation mises en lumière par la pandémie."},
        {src: require('../assets/images/ImagesCarousel/Actualité/News2.jpeg'), titre: "Une aide pour les victimes de violence conjugale jugée insuffisante", contenu: "Comme promis, Québec a réservé des fonds dans son budget pour rehausser l’aide aux victimes de violence conjugale."},
        {src: require('../assets/images/ImagesCarousel/Actualité/News3.jpeg'), titre: "Ottawa devra mettre les bouchées doubles pour trouver les fraudeurs", contenu: "Des années seront nécessaires pour récupérer les montants d'aide d’urgence encaissés indûment, estime la VG."},
        {src: require('../assets/images/ImagesCarousel/Actualité/News4.jpeg'), titre: "Le fédéral incapable de vérifier le respect des quarantaines", contenu: "Près des deux tiers des voyageurs ont échappé à la surveillance de l’Agence de la santé publique."},
